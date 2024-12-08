@@ -1,0 +1,9 @@
+[project]
+name = "blokus-bot"
+version = "0.1.0"
+description = "Beating my parents at Blokus with the power of reinforcement learning"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "tk>=0.1.0",
+]
